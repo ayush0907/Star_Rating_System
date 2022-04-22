@@ -2,12 +2,12 @@
 session_start();
 include('inc/header.php');
 ?>
-<title>phpzag.com : Demo Star Rating System with Ajax, PHP and MySQL</title>
+<title>Star Rating System </title>
 <script src="js/rating.js"></script>
 <link rel="stylesheet" href="css/style.css">
 <?php include('inc/container.php');?>
 <div class="container">		
-	<h2>Example: Star Rating System with Ajax, PHP and MySQL</h2>
+	<h2>Star Rating System </h2>
 	<?php
 	include 'inc/menu.php';
 	include 'class/Rating.php';
